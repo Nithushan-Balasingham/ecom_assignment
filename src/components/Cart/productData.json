@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Iphone",
+      "price": 999,
+      "description": "Apple’s premium device featuring the A18 Bionic chip, titanium frame, a stunning ProMotion XDR display, and advanced camera innovations like periscope zoom.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlfGVufDB8fDB8fHww0",
+      "category": "smartphone"
+    },
+    {
+      "id": 2,
+      "name": "Samsung",
+      "price": 499,
+      "description": "A powerhouse flagship with a sleek design, 200MP camera, S Pen integration, and an advanced Snapdragon 8 Gen 3 chip for unparalleled performance.",
+      "image": "https://www.zdnet.com/a/img/2024/02/02/1bfa7d30-112c-4906-83a7-ce12551b7b16/galaxy-s24-ultra.jpg",
+      "category": "smartphone"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "price": 599,
+      "description": "The ultimate Android experience with Tensor G3 AI capabilities, a cutting-edge 50MP camera, and clean software optimized for Google services.",
+      "image": "https://amateurphotographer.com/wp-content/uploads/sites/7/2024/08/google-pixel-9-pro-XL-in-hand-3-photo-JW-AP-IMG_20240107_120223.jpg?w=900",
+      "category": "smartphone"
+    },
+    {
+      "id": 4,
+      "name": "Charger",
+      "price": 15,
+      "description": "Fast charging adapter compatible with most modern smartphones, providing rapid charge speeds and a durable design.",
+      "image": "https://transasia.lk/img/product/12088/12088-004_720X720.jpg",
+      "category": "accessory"
+    },
+    {
+      "id": 5,
+      "name": "Earphone",
+      "price": 40,
+      "description": "Wireless earphones with noise cancellation, crystal clear sound, and long-lasting battery life, perfect for daily use and travel.",
+      "image": "data:image/jpeg;base64,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",
+      "category": "accessory"
+    },
+    {
+      "id": 6,
+      "name": "USB Cable",
+      "price": 10,
+      "description": "High-speed data transfer cable compatible with most smartphones, tablets, and other USB-C devices.",
+      "image": "https://i0.wp.com/directdealz.lk/wp-content/uploads/2023/12/original-samsung-25w-adapter-with-usb-type-c-to-type-c-cable-uk-3-pin-1.jpg",
+      "category": "accessory"
+    }
+  ]
+  
