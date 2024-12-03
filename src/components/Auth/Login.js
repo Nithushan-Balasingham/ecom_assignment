@@ -23,12 +23,11 @@ const Login = () => {
         const isAuthenticated = login(email, password);
 
         if (isAuthenticated) {
-            navigate('/cart');
             toast.success("Logined Successfully!", {
                 autoClose: 1000,
               });      
             setTimeout(() => {
-                navigate('/cart');
+                navigate('/');
             }, 2000);
         } else {
             setErrors({ general: 'Invalid email or password' });

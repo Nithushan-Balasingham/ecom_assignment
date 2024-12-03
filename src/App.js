@@ -21,7 +21,7 @@ const App = () => {
                         <Route path="/register" element={<Register/>} />
      
                         <Route
-                            path="/cart"
+                            path="/"
                             element={
                                 <PrivateRoute>
                                     <Cart />
